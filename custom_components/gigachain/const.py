@@ -63,10 +63,9 @@ CONF_ENGINE_OPTIONS = [
 ]
 MODELS_GIGACHAT = [
     " ",
-    "GigaChat",
-    "GigaChat:latest",
-    "GigaChat-Plus",
-    "GigaChat-Pro",
+    "GigaChat-2",
+    "GigaChat-2-Pro",
+    "GigaChat-Max",
 ]
 DEFAULT_MODELS_YANDEX_GPT = [" ", "YandexGPT", "YandexGPT Lite", "Summary"]
 MODELS_ANYSCALE = [" ",
